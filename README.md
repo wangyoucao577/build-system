@@ -19,7 +19,7 @@ Designed for large projects that generates build files for `ninja`.
 - https://gn.googlesource.com/gn
 - https://gn.googlesource.com/gn/+/main/docs/quick_start.md
 - https://gn.googlesource.com/gn/+/main/docs/reference.md
-
+- https://gn.googlesource.com/gn/+/refs/heads/main/examples/simple_build/
 
 ## bazel
 TODO:     
