@@ -1,4 +1,4 @@
-# CMAKE vs GNU Build System(Autotools)  
+# CMAKE vs GNU Autotools(a.k.a. GNU Build System))  
 学习`cmake`与`GNU build system (autotools)`使用的示例小项目.  
 
 ## 目标
@@ -46,11 +46,10 @@
   - math_lib.h        # 头文件  
 - README.md           # 说明文件  
 
-### Reference links   
+## Reference links   
 - http://stackoverflow.com/questions/15100351/changing-cmake-cxx-flags-in-project  
 - https://cmake.org/Wiki/CMake_Useful_Variables  
 - [GNU Autoconf Manual]( https://www.gnu.org/software/autoconf/manual/autoconf.html)  
 - [A Good Autotools Tutorial for beginners](http://markuskimius.wikidot.com/programming:tut:autotools)  
+- [GNU Autotools](https://en.wikipedia.org/wiki/GNU_Autotools)
 
-## TODO:  
-- 与原版本管理系统相结合  
