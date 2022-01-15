@@ -24,3 +24,6 @@ Designed for large projects that generates build files for `ninja`.
 ## bazel
 TODO:     
 
+## waf
+TODO:   
+
