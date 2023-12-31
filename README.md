@@ -32,3 +32,12 @@ See more in [blade_test/quick-start](blade_test/quick-start).
 ## waf
 TODO:   
 
+## scons
+[scons](https://github.com/SCons/scons).      
+
+TODO:      
+
+## meson     
+[meson](https://mesonbuild.com/).      
+
+TODO:    
