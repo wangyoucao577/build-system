@@ -24,6 +24,11 @@ Designed for large projects that generates build files for `ninja`.
 ## bazel
 TODO:     
 
+## blade     
+[chen3feng/blade-build](https://github.com/chen3feng/blade-build) is inspired by Google's public information about their build system [build in cloud: how build system works](http://google-engtools.blogspot.hk/2011/08/build-in-cloud-how-build-system-works.html). It looks very similiar with `gn/bazel` at the moment, and also uses `ninja` as backend in the current version.            
+
+See more in [blade_test/quick-start](blade_test/quick-start).      
+
 ## waf
 TODO:   
 
